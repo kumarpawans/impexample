@@ -1,4 +1,4 @@
-# impexample
+# imp Notes
 Finagle example
 <dependency>
   <groupId>com.twitter</groupId>
@@ -24,5 +24,8 @@ Finagle example
       System.out.println("Response status: " + response.status());
       System.out.println("Response body: " + response.getContentString());
     }
-  }
+     }
 
+Online UML tools - 
+
+  https://online.visual-paradigm.com/app/diagrams/#diagram:type=PackageDiagram&gallery=/repository/88031adf-45b4-4587-baf8-0a4b2af2f702.xml&name=General%20Business%20System
